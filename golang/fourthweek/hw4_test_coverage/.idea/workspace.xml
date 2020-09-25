@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1bd1839-9a33-4573-948a-1d74c7953343" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1hVFH7zDEjXDwhpZd9IdtpXlV5b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RunManager" selected="Go Test.TestSimple in hw4_test_coverage (1)">
+    <configuration name="go build hw4_test_coverage (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="hw4_test_coverage" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="hw4_test_coverage" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build hw4_test_coverage" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="hw4_test_coverage" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSimple in hw4_test_coverage (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="hw4_test_coverage" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="hw4_test_coverage" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestSimple\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSimple in hw4_test_coverage" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="hw4_test_coverage" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="hw4_test_coverage" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestSimple\E$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build hw4_test_coverage" />
+      <item itemvalue="Go Build.go build hw4_test_coverage (1)" />
+      <item itemvalue="Go Test.TestSimple in hw4_test_coverage" />
+      <item itemvalue="Go Test.TestSimple in hw4_test_coverage (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestSimple in hw4_test_coverage (1)" />
+        <item itemvalue="Go Test.TestSimple in hw4_test_coverage" />
+        <item itemvalue="Go Build.go build hw4_test_coverage (1)" />
+        <item itemvalue="Go Build.go build hw4_test_coverage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="180" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600091061219">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="180" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1600091061219" />
+    <state x="740" y="267" key="FileChooserDialogImpl" timestamp="1600280813286">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="267" key="FileChooserDialogImpl/-1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1600280813286" />
+    <state width="1877" height="210" key="GridCell.Tab.0.bottom" timestamp="1601067750999">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="210" key="GridCell.Tab.0.bottom/-1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1601067750999" />
+    <state width="1877" height="210" key="GridCell.Tab.0.center" timestamp="1601067750999">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="210" key="GridCell.Tab.0.center/-1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1601067750999" />
+    <state width="1877" height="210" key="GridCell.Tab.0.left" timestamp="1601067750999">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="210" key="GridCell.Tab.0.left/-1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1601067750999" />
+    <state width="1877" height="210" key="GridCell.Tab.0.right" timestamp="1601067750999">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="210" key="GridCell.Tab.0.right/-1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1601067750999" />
+    <state width="1877" height="210" key="GridCell.Tab.1.bottom" timestamp="1601067750999">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="210" key="GridCell.Tab.1.bottom/-1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1601067750999" />
+    <state width="1877" height="210" key="GridCell.Tab.1.center" timestamp="1601067750999">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="210" key="GridCell.Tab.1.center/-1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1601067750999" />
+    <state width="1877" height="210" key="GridCell.Tab.1.left" timestamp="1601067750999">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="210" key="GridCell.Tab.1.left/-1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1601067750999" />
+    <state width="1877" height="210" key="GridCell.Tab.1.right" timestamp="1601067750999">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="210" key="GridCell.Tab.1.right/-1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1601067750999" />
+    <state x="461" y="170" key="SettingsEditor" timestamp="1600091010211">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="170" key="SettingsEditor/-1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1600091010211" />
+    <state width="968" height="533" key="XDebugger.FullValuePopup" timestamp="1601065535680">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="968" height="533" key="XDebugger.FullValuePopup/-1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1601065535680" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/hw4_test_coverage$TestSimple_in_hw4_test_coverage__1_.out" NAME="TestSimple in hw4_test_coverage (1) Coverage Results" MODIFIED="1601067467775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/hw4_test_coverage$TestSimple_in_hw4_test_coverage.out" NAME="TestSimple in hw4_test_coverage Coverage Results" MODIFIED="1601063794561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
