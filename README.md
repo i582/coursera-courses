@@ -1,5 +1,5 @@
-# Пройденные курсы на Coursera (решенные задачи)
+# Courses passed on Coursera (solved problems)
 
 ## Golang
 
-1. [Разработка веб-сервисов на Go - основы языка](https://www.coursera.org/learn/golang-webservices-1/home/welcome) — [сертификат](https://www.coursera.org/account/accomplishments/verify/BFV7BS9P5VLT)
+1. [Developing web services in Go – language basics](https://www.coursera.org/learn/golang-webservices-1/home/welcome) ([certificate](https://www.coursera.org/account/accomplishments/verify/BFV7BS9P5VLT)) — [src](https://github.com/i582/coursera-courses/tree/master/golang/DevelopingWebServicesInGoLanguageBasics)
